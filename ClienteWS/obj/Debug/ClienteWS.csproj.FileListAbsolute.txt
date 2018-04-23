@@ -1,0 +1,10 @@
+D:\Proyectos .Net\ServicePersona\ClienteWS\bin\Debug\ClienteWS.exe.config
+D:\Proyectos .Net\ServicePersona\ClienteWS\bin\Debug\ClienteWS.exe
+D:\Proyectos .Net\ServicePersona\ClienteWS\bin\Debug\ClienteWS.pdb
+D:\Proyectos .Net\ServicePersona\ClienteWS\obj\Debug\ClienteWS.csprojResolveAssemblyReference.cache
+D:\Proyectos .Net\ServicePersona\ClienteWS\obj\Debug\ClienteWS.Properties.Resources.resources
+D:\Proyectos .Net\ServicePersona\ClienteWS\obj\Debug\ClienteWS.csproj.GenerateResource.Cache
+D:\Proyectos .Net\ServicePersona\ClienteWS\obj\Debug\ClienteWS.exe
+D:\Proyectos .Net\ServicePersona\ClienteWS\obj\Debug\ClienteWS.pdb
+D:\Proyectos .Net\ServicePersona\ClienteWS\obj\Debug\ClienteWS.frmBuscarPersona.resources
+D:\Proyectos .Net\ServicePersona\ClienteWS\obj\Debug\ClienteWS.frmBuscarAlumno.resources

@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@using (Html.BeginForm(null, null, FormMethod.Post, new { name = "registro", id = "registro" }))
+{ 
+    <div class="form-horizontal">
+        DNI: <input type="text" name="id" id="id" />
+
+        <input type="submit" value="Buscar" />
+        </div>
+}
+<h3>Resultados</h3>
+
+<p>Nombre: @ViewBag.Nombre</p>
+<p>Error: @ViewBag.Error</p>

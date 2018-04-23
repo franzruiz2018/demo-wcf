@@ -1,0 +1,8 @@
+D:\Proyectos .Net\ServicePersona\ServicePersona\bin\ServicePersona.dll.config
+D:\Proyectos .Net\ServicePersona\ServicePersona\bin\ServicePersona.dll
+D:\Proyectos .Net\ServicePersona\ServicePersona\bin\ServicePersona.pdb
+D:\Proyectos .Net\ServicePersona\ServicePersona\obj\Debug\ServicePersona.csprojResolveAssemblyReference.cache
+D:\Proyectos .Net\ServicePersona\ServicePersona\obj\Debug\ServicePersona.dll
+D:\Proyectos .Net\ServicePersona\ServicePersona\obj\Debug\ServicePersona.pdb
+D:\Proyectos .Net\ServicePersona\ServicePersona\bin\Repositorio.dll
+D:\Proyectos .Net\ServicePersona\ServicePersona\bin\Repositorio.pdb
